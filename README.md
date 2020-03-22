@@ -22,7 +22,8 @@ Organized set of readings for understanding blockchain technology
 - Monero (ring signatures)
 - Zcash
 
-## Smart contract verification tools
+## Smart contract verification and tools
+- [SLR formal verification of smart contracts](https://www.sciencedirect.com/science/article/pii/S0167404818310927?via%3Dihub)
 
 ## Smart contract languages
 - Solidity
