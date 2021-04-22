@@ -14,6 +14,7 @@ Organized set of readings for understanding blockchain technology
 
 ## Scalability Mechanisms
 - [Sharding](https://eprint.iacr.org/2019/1178.pdf)
+- [The road to Ethereum](https://barnabe.substack.com/p/eth2?s=09)
 -
 
 ## Blockchain privacy
